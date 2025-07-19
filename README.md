@@ -28,3 +28,5 @@ Logging my full grind to break into security engineering. From noob to Sourcegra
 
 ### 🧠 Mindset Note:
 Security is deep tech — but I am all here for it!!
+---
+I actually took more time to surf the security space and realized the basics are pretty much the same, so I will  be amping up my approach from tomorrow. EXCITED.
